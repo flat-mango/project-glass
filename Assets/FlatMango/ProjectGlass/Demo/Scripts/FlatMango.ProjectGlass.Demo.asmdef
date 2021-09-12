@@ -1,0 +1,15 @@
+{
+    "name": "FlatMango.ProjectGlass.Demo",
+    "references": [
+        "GUID:a8f0f5535b59dfb42993550d48aad6ab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
